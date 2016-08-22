@@ -14,7 +14,7 @@ predefined-items:
 
     # Custom reagent
 
-    sun_concoctio:
+    sun_concoction:
         type: "351:11"
         name: "&eSolar Concoction"
         lore:
